@@ -273,7 +273,6 @@ button:hover {
   justify-content: space-between;
   position: absolute;
   width: min(1000px, 90%);
-  height: 280px;
   top: -140px;
   left: 50%;
   transform: translateX(-50%);
@@ -295,7 +294,7 @@ button:hover {
 }
 .footer .top-footer .text {
   max-width: 700px;
-  margin: 0 auto;
+  margin: 1.5rem auto;
 }
 .footer .top-footer .form {
   display: flex;
@@ -438,7 +437,6 @@ button:hover {
     padding: 17.5rem 5% 5rem;
   }
   .footer .top-footer {
-    height: 400px !important;
     top: -200px !important;
   }
   .footer .top-footer .text {
